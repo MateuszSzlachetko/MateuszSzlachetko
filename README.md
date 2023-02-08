@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mateusz Szlachetko</h1>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:640/1*jGTqQo_dUA28d3GhuHYO8g.gif">
+<img align="right" alt="Coding" width="400" src="68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3634302f312a6a475471516f5f6455413238643347687548594f38672e676966.gif">
 - 🔭 I’m currently working on **private business website**
 
 - 🌱 I’m currently learning **html/css/js**
