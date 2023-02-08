@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mateusz Szlachetko</h1>
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flevelup.gitconnected.com%2Fswitch-to-go-modules-from-go-dep-fcdd4aa41bd5&psig=AOvVaw1-sibcCxisKVKwzC4LiRD2&ust=1675958855457000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCKjy_bOnhv0CFQAAAAAdAAAAABAP">
 - 🔭 I’m currently working on **private business website**
 
 - 🌱 I’m currently learning **html/css/js**
